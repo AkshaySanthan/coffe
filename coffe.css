@@ -1,0 +1,198 @@
+@import url('https://fonts.googleapis.com/css2?family=Inspiration&family=Josefin+Sans&family=Lobster&family=Monoton&family=Permanent+Marker&family=Press+Start+2P&family=Rock+Salt&family=Rubik+Puddles&family=Smokum&display=swap');
+ul{
+    float: right;
+    margin-top: -53px;
+    font-size: xx-large;
+    color: rgb(241, 236, 236);
+    /* font-family: monospace; */
+   
+}
+ul li{
+    display: inline-block;;
+
+}
+ul li a{
+    text-decoration: none;
+    color: rgb(7, 7, 7);
+    padding: 5px 20px;
+    border: 1px solid black;
+
+}
+ul li a:hover{
+    background-color: khaki;
+}
+h1{
+    /* background-color: rgb(22, 22, 21); */
+    color: white;
+    font-family: 'Bungee Shade', cursive;;
+}
+body{
+    background-color: slategray;
+    /* background-image: url(./cofee/253-2535858_love-and-coffee-background.jpg); */
+    background-size: cover;
+    /* background-image: url(./cofee/images\ \(3\).jpg); */
+}
+.a1{
+    margin-left: 5%;
+}
+.a2{
+    margin-left: 20%;
+}
+.a3{
+    margin-left: 26%;
+    margin-top: -1%;
+}
+#img1{
+    width: 52%;
+    margin-left: 44%;
+    margin-top: -29%;
+    border-radius: 90px;
+}
+#cap{
+    font-size: 40px;
+    position: sticky;
+    font-family:'Bungee Shade', cursive;
+
+}
+.about{
+    width: 20%;
+    height: 280px;
+    /* border: 2px black solid; */
+    margin-left: 320px;
+    background-image: url(./cofee/coffee-latte.gif);
+    background-size: cover;
+    padding-top: 5%;
+    border-radius: 90px;
+}
+h2{
+    padding-left: 40%;
+    /* font-family: 'Rubik Puddles', cursive;; */
+    border: 1px solid black;
+    /* position: fixed; */
+    /* top: 0px; */
+    /* left: 0px; */
+}
+.about1{
+    width: 53%;
+    height: 269px;
+    /* border: 2px solid black; */
+    margin-left: 701px;
+    margin-top: -17%;
+    padding: 5px;
+    /* position: sticky;
+    top: 0px; */
+}
+span{
+    color: brown;
+}
+#nn{
+    color: black;
+}
+.col{
+    width: 450px;
+    height: 500px;
+    /* border: 2px solid ; */
+    float: left;
+    /* display: flex;
+    align-items: center;
+    justify-content: space-evenly; */
+    /* position: sticky;
+    top: 2px;
+    left: 1px; */
+
+}
+.c-2{
+    margin-left: 15px;
+
+}
+.c-3{
+    margin-left: 15px;
+}
+.c-4{
+    margin-left: 15px;
+}
+.c-1{
+    margin-left: 15px;
+}
+#typ{
+    width: 100%;
+    height: 270px;
+    border-radius: 60px;
+
+}
+#a{
+    padding-left: 130px;
+    color: brown;
+}
+button{
+    margin-left: 30%;
+    background-color: darkcyan;
+
+}
+button:hover{
+    background-color: black;
+    color: rgb(236, 75, 75);
+}
+#a:hover{
+    background-color: rgb(75, 70, 70);
+}
+
+#feed{
+    width: 40%;
+    height: 284px;
+    border: 2px solid black;
+    margin-top: 1200px;
+    margin-left: 550px;
+    background-color: blueviolet;
+    padding: 2px;
+}
+input{
+    padding-left: 15%;
+    background-color: rgb(221, 213, 213);
+}
+#but{
+    margin-left: 42%;
+}
+#loc{
+  color: rgb(224, 215, 89);
+}
+hr{
+    color: red;
+}
+.footer .social{
+    text-align: center;
+    padding-bottom: 25px;
+}
+.footer .social a{
+    font-size: 23px;
+    color: red;
+    /* border: 1px solid white; */
+    width: 30px;
+    height: 50px;
+    line-height: 30px;
+    display: inline-block;
+    text-align: center;
+    border-radius: 50%;
+    margin: 0 8px;
+    opacity: 0.75;
+
+}
+.footer .social a:hover{
+    opacity: 0.7;
+    background-color: rgb(100, 98, 98);
+}
+.social{
+    background-color: rgb(8, 8, 8);
+}
+#fo{
+    padding-left: 45%;
+}
+#foo{
+    color: white;
+    margin-left: -40%;
+    margin-top: -1%;
+}
+
+#typ:hover{
+    background-size: 3%;
+}
